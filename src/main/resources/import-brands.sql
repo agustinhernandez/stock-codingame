@@ -1,0 +1,1 @@
+insert into brand (id, name) values (1, 'ZARA');
